@@ -1,0 +1,12 @@
+
+INFO:train_pipeline:Begin our experiment
+INFO:train_pipeline:dataset heart.csv loaded
+INFO:train_pipeline:sparse features deleted
+INFO:train_pipeline:dataset splited on train and val
+INFO:train_pipeline:Begin our experiment
+INFO:train_pipeline:dataset heart.csv loaded
+INFO:train_pipeline:sparse features deleted
+INFO:train_pipeline:dataset splited on train and val
+INFO:train_pipeline:the model is trained
+INFO:train_pipeline:evaluate on train {'accuracy': 0.8773584905660378, 'precision': 0.8739495798319328, 'recall': 0.9043478260869565}
+INFO:train_pipeline:evaluate on validation {'accuracy': 0.8351648351648352, 'precision': 0.8431372549019608, 'recall': 0.86}
